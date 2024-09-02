@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
+      {/* <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <a
           className="App-link"
@@ -14,7 +14,7 @@ function App() {
         >
           Learn Jenkins on Udemy
         </a>
-      </header>
+      </header> */}
       <p>
           Application version: 1
       </p>
